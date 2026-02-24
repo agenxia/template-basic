@@ -1,0 +1,19 @@
+{
+  "name": "Basic Agent",
+  "description": "Simple API agent with basic endpoints for status and data processing",
+  "type": "template",
+  "complexity": "beginner",
+  "features": [
+    "RESTful API endpoints",
+    "Status monitoring",
+    "Basic data processing",
+    "Environment variables",
+    "Simple configuration"
+  ],
+  "env_vars": [
+    "API_VERSION",
+    "NODE_ENV",
+    "AGENT_NAME"
+  ],
+  "icon": "🤖"
+}
